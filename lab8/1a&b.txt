@@ -1,0 +1,11 @@
+1)
+
+i) parameters : i & j
+free variables : s & t
+
+
+ii) parameters : s & t
+free variables : ignoreCase
+
+b)
+i) Supplier<Double> v = () -> Math.random();
